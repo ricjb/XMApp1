@@ -44,7 +44,7 @@ fun Greeting(modifier: Modifier = Modifier) {
         Text(
             text = "App 1"
         )
-        Spacer(modifier = Modifier.height(16.dp))
+        Spacer(modifier = Modifier.height(18.dp))
         XMButton()
     }
 }

@@ -9,8 +9,8 @@
 /.idea/assetWizardSettings.xml
 .DS_Store
 /build
-/xmlibrary
 /captures
 .externalNativeBuild
 .cxx
 local.properties
+/XMSharedLibrary/
