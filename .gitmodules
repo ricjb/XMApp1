@@ -1,0 +1,3 @@
+[submodule "XMSharedLibrary"]
+	path = XMSharedLibrary
+	url = git@github.com:ricjb/XMSharedLibrary.git
