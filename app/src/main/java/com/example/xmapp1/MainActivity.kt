@@ -42,7 +42,7 @@ fun Greeting(modifier: Modifier = Modifier) {
         verticalArrangement = Arrangement.Center
     ) {
         Text(
-            text = "App 1"
+            text = "App 2"
         )
         Spacer(modifier = Modifier.height(18.dp))
         XMButton()
